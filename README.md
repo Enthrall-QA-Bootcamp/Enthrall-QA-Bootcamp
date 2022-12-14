@@ -64,14 +64,21 @@
   <!--Maven-->
 <a href="" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVJzOSI3AtkpYVLkOtbzVJry5wy83535JC2jEh_3og561Cui0BB1QWcz3xpTkWY-vFCXM&usqp=CAU" alt="Maven" width="40"/> </a>
   <!-- Postman  -->
-  <a href="" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu3eMU5KeETDmtyWbfSN1PT9h3VqgH1CXrUlwl1VxSb64HN8g0GzGV6gE_dy31yvHqTs8&usqp=CAU" width="40"/> </a>
+  <a href="" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu3eMU5KeETDmtyWbfSN1PT9h3VqgH1CXrUlwl1VxSb64HN8g0GzGV6gE_dy31yvHqTs8&usqp=CAU" alt="Postman" width="40"/> </a>
   <!-- Cucumber  -->
+  <a href="" target="_blank"> <img src="https://seeklogo.com/images/C/cucumber-logo-D727C551CE-seeklogo.com.png" alt="Cucumber" width="40"/> </a>
   <!-- SQL  -->
+  <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png" alt="SQL" width="40"/> </a>
   <!-- Appium  -->
+   <a href="" target="_blank"> <img src="https://banner2.cleanpng.com/20180716/jxc/kisspng-appium-test-automation-software-testing-selenium-ios-logo-5b4d4dbfc649e9.7415697115317928318122.jpg" alt="Appium" width="40"/> </a>
   <!-- Jira  -->
+   <a href="" target="_blank"> <img src="https://symphony.com/wp-content/uploads/2020/12/sd-integrations-logo-jira.png" alt="Jira" width="40"/> </a>
   <!-- Browserstack  -->
+  <a href="" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/browserstack-logo-png-transparent.png" alt="Browserstack" width="40"/> </a>
   <!-- Eclipse  -->
+    <a href="" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDmup7xhiuAbzYNRjNX7YOXV9qEyEf3MKlug&usqp=CAU" alt="Eclipse" width="40"/> </a>
   <!-- GitHub  -->
+  <a href="" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" alt="GitHub" width="40"/> </a>
   <!-- Java  -->
   <!-- SDLC  -->
   <!-- Rest Assured  -->
