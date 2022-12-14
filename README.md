@@ -65,7 +65,7 @@
   <!-- Browserstack  -->
   <a href="" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/browserstack-logo-png-transparent.png" alt="Browserstack" width="40"/> </a>
   <!-- Eclipse  -->
-    <a href="" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDmup7xhiuAbzYNRjNX7YOXV9qEyEf3MKlug&usqp=CAU" alt="Eclipse" width="40"/> </a>
+    <a href="" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-svg-vector.svg" alt="Eclipse" width="40"/> </a>
   <!-- GitHub  -->
   <a href="" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="GitHub" width="40"/> </a>
   <!-- Java  -->
