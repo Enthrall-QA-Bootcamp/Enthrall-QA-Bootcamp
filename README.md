@@ -59,7 +59,7 @@
   <!-- SQL  -->
   <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png" alt="SQL" width="40"/> </a>
   <!-- Appium  -->
-   <a href="" target="_blank"> <img src="https://banner2.cleanpng.com/20180716/jxc/kisspng-appium-test-automation-software-testing-selenium-ios-logo-5b4d4dbfc649e9.7415697115317928318122.jpg" alt="Appium" width="40"/> </a>
+   <a href="" target="_blank"> <img src="https://cdn.testingbot.com/assets/integrations/appium-75e88eb18ca3b2ce63d641547ce06398c8ecd971ed17187c9134c8d205465f18.svg" alt="Appium" width="40"/> </a>
   <!-- Jira  -->
    <a href="" target="_blank"> <img src="https://symphony.com/wp-content/uploads/2020/12/sd-integrations-logo-jira.png" alt="Jira" width="40"/> </a>
   <!-- Browserstack  -->
