@@ -11,12 +11,7 @@
 <p align="left">
   <img alt="" style="{max-height: 0px}" src="img/header.jpg">
 </p>
-<div align="center">
-<!--- portfolio launch image --->
-<a href="https://mdyeamin.netlify.app/">
-  <img height="300" src="img/coder_husbend.png"/>
-  <img height="300" src="img/coder_wife.png"/>
-</div>
+
   
   
 
