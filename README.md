@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rasel Hossain</h1>
 <h3 align="center">MERN Stack Developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=raselinfo&label=Profile%20views&color=0e75b6&style=flat" alt="raselinfo" /> </p>
-
 - 🔭 I’m currently working on **Vue Expart**
 
 - 🌱 I’m currently learning **Vue.js,Nuxt.js**
