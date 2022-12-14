@@ -1,18 +1,12 @@
-
 <div align="center">
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=FF58C4&center=true&width=500&lines=Hi,+this+is++Yeamin...💻;But,+you+can+call+me...;JavaScript+Lover...❤;Thank+you+so+much+for...;Following+my+GitHub🥰)](https://mdyeamin.netlify.app/)
 
-
-
-
-
 <h2 align="center">
   <a href="https://github.com/mdyeamin"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+developer+;API+developer;Frontend+developer;user+interface+(UI);user+experience+(UX);Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </h2>
 </div>
-
 
 <p align="left">
   <img alt="" style="{max-height: 0px}" src="img/header.jpg">
@@ -25,7 +19,7 @@
 </div>
   
   
-  
+
 
 <br>
 
@@ -49,7 +43,6 @@
 <a href="https://discord.gg/Md Yeamin#6366" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Md Yeamin#6366" height="30" width="40" /></a>
   <a href="https://www.youtube.com/c/raselofficialyoutube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="raselofficialyoutube" height="30" width="40" /></a>
 </p>
-
 
 <h3 align="center">Languages and Tools:</h3>
 </br>
@@ -78,20 +71,18 @@
   <!-- Eclipse  -->
     <a href="" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDmup7xhiuAbzYNRjNX7YOXV9qEyEf3MKlug&usqp=CAU" alt="Eclipse" width="40"/> </a>
   <!-- GitHub  -->
-  <a href="" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" alt="GitHub" width="40"/> </a>
+  <a href="" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="GitHub" width="40"/> </a>
   <!-- Java  -->
+    <a href="" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40"/> </a>
   <!-- SDLC  -->
+  <a href="" target="_blank"> <img src="https://static.javatpoint.com/tutorial/software-engineering/images/software-engineering-software-development-life-cycle.png" alt="SDLC" width="40"/> </a>
   <!-- Rest Assured  -->
+   <a href="" target="_blank"> <img src="https://devqa.io/assets/images/rest-assured-get-post-put-patch-delete.png" alt="Rest Assured " width="40"/> </a>
   <!-- Selenium_4  -->
-  <!-- VS code  -->
-
-
-
-
-
+<a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/1200px-Selenium_Logo.png" alt="Selenium_4 " width="40"/> </a>
+<!-- VS code  -->
+<a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS code " width="40"/> </a>
  </p>
-
-
 
 <div align="center">
 &nbsp;
@@ -110,7 +101,7 @@ I did some work in the backend,
 I hope to become a full-stack developer very soon
 </h5>
 I'm a Frontend web developer and Fancy web designer. I started building websites in 2020. I know how to make an appealing website. Though I am a junior Developer and designer but I am very Confident about my work .
-  
+
 
 </div>
  <!--- Portfolio/Website --->  
@@ -130,18 +121,17 @@ I'm a Frontend web developer and Fancy web designer. I started building websites
   `backend` -> <a href="https://github.com/mdyeamin/-niche-website-server-side" target="_blank">`Github code`</a>
    </br>
 
-  `Travel curios` -> <a href="https://travel-curiosity.web.app/" target="_blank">`website`</a>|
-  `frontend` -> <a href="https://github.com/mdyeamin/tourism-or-delivery-website-client-side" target="_blank">`Github code`</a>|
-  `backend` -> <a href="https://github.com/mdyeamin/tourism-or-delivery-website-server-side" target="_blank">`Github code`</a>
+`Travel curios` -> <a href="https://travel-curiosity.web.app/" target="_blank">`website`</a>|
+`frontend` -> <a href="https://github.com/mdyeamin/tourism-or-delivery-website-client-side" target="_blank">`Github code`</a>|
+`backend` -> <a href="https://github.com/mdyeamin/tourism-or-delivery-website-server-side" target="_blank">`Github code`</a>
 
-  `Health Sense` -> <a href="https://health-sense-d3b2a.web.app/" target="_blank">`website`</a>|
-  `frontend` -> <a href="https://github.com/mdyeamin/-healthcare-react-firebase" target="_blank">`Github code`</a>|
+`Health Sense` -> <a href="https://health-sense-d3b2a.web.app/" target="_blank">`website`</a>|
+`frontend` -> <a href="https://github.com/mdyeamin/-healthcare-react-firebase" target="_blank">`Github code`</a>|
+
   <!-- `backend` -> <a href="https://github.com/mdyeamin/-niche-website-server-side" target="_blank">`Github code`</a> -->
 
-  `Code Education` -> <a href="https://procodeeducation.netlify.app/" target="_blank">`website`</a>|
-  `frontend` -> <a href="https://github.com/mdyeamin/review-website-react" target="_blank">`Github code`</a>|
-  
-
+`Code Education` -> <a href="https://procodeeducation.netlify.app/" target="_blank">`website`</a>|
+`frontend` -> <a href="https://github.com/mdyeamin/review-website-react" target="_blank">`Github code`</a>|
 
   <div align="center">
 <img height="40" src="img/152370900-69dce999-2e00-4227-9547-917fa1a4b06e.png" />
@@ -150,7 +140,9 @@ I'm a Frontend web developer and Fancy web designer. I started building websites
 <hr>
 
   <!-- most used language  -->
- &nbsp;**This week I spent my time on**
+
+&nbsp;**This week I spent my time on**
+
  <p align="center">
   <img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdyeamin&hide=TeX&layout=compact&theme=radical&hide_border=true&bg_color=1F222E" />
 
@@ -161,18 +153,15 @@ I'm a Frontend web developer and Fancy web designer. I started building websites
 
 <img  width="420px" alt="This week I spent my time on" src="https://wakatime.com/share/@mdyeamin/de026aac-1367-42ce-b23e-5d840c3d2fef.svg">
 
-
 </p>
-
 
 <p align="center">
   <img width="420px" src="https://github-readme-stats.vercel.app/api?username=mdyeamin&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
   <img width="420px" src="https://github-readme-streak-stats.herokuapp.com?user=mdyeamin&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
 </p>
 
-
-
 <!--- building footer with spaceship question --->
+
 ![footer](img/hey.gif)
 
 <p align="center">
