@@ -53,7 +53,7 @@
   <!--Maven-->
 <a href="" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVJzOSI3AtkpYVLkOtbzVJry5wy83535JC2jEh_3og561Cui0BB1QWcz3xpTkWY-vFCXM&usqp=CAU" alt="Maven" width="40"/> </a>
   <!-- Postman  -->
-  <a href="" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu3eMU5KeETDmtyWbfSN1PT9h3VqgH1CXrUlwl1VxSb64HN8g0GzGV6gE_dy31yvHqTs8&usqp=CAU" alt="Postman" width="40"/> </a>
+  <a href="" target="_blank"> <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" alt="Postman" width="40"/> </a>
   <!-- Cucumber  -->
   <a href="" target="_blank"> <img src="https://seeklogo.com/images/C/cucumber-logo-D727C551CE-seeklogo.com.png" alt="Cucumber" width="40"/> </a>
   <!-- SQL  -->
