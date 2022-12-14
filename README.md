@@ -73,7 +73,7 @@
   <!-- SDLC  -->
   <a href="" target="_blank"> <img src="https://t4.ftcdn.net/jpg/05/41/91/07/360_F_541910787_PROoPe5SAXpM1ZQbD0kJtXHDp1pjjfcV.jpg" alt="SDLC" width="40"/> </a>
   <!-- Rest Assured  -->
-   <a href="" target="_blank"> <img src="https://devqa.io/assets/images/rest-assured-get-post-put-patch-delete.png" alt="Rest Assured " width="40"/> </a>
+   <a href="" target="_blank"> <img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" alt="Rest Assured " width="40"/> </a>
   <!-- Selenium_4  -->
 <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/1200px-Selenium_Logo.png" alt="Selenium_4 " width="40"/> </a>
 <!-- VS code  -->
