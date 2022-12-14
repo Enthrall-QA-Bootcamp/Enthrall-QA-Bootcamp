@@ -1,4 +1,26 @@
 <div align="center">
+
+
+<h1 align="center">Hi 👋, I'm Yeamin</h1>
+<h3 align="center">MERN Stack Developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raselinfo&label=Profile%20views&color=0e75b6&style=flat" alt="raselinfo" /> </p>
+
+- 🔭 I’m currently working on **Vue Expart**
+
+- 🌱 I’m currently learning **Vue.js,Nuxt.js**
+
+- 👨‍💻 All of my projects are available at [https://raselofficial.com/](https://raselofficial.com/)
+
+- 📝 I regularly write articles on [https://raselhossainy52.medium.com/](https://raselhossainy52.medium.com/)
+
+- 💬 Ask me about **React,Vue.js,Node.js,Lottie Animation**
+
+- 📫 How to reach me **https://raselofficial.com/**
+
+
+
+
 <!-- <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=FF58C4&center=true&width=500&lines=Hi,+this+is++Yeamin...💻;But,+you+can+call+me...;JavaScript+Lover...❤;Thank+you+so+much+for...;Following+my+GitHub🥰)](https://mdyeamin.netlify.app/)
