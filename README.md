@@ -66,7 +66,7 @@
 <p align="center">
   <!--Others-->
   <!-- HTML -->
-   <a href="" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/143/143655.png" alt="HTML" width="40" /> </a>
+   <a href="" target="_blank"> <img src="https://w7.pngwing.com/pngs/840/443/png-transparent-html-5-logo-web-development-html-css3-canvas-element-web-design-w3c-html5-logo-miscellaneous-text-orange-thumbnail.png" alt="HTML" width="40" /> </a>
   &nbsp;
   <!-- CSS -->
    <a href="" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="CSS" width="40" /> </a>
