@@ -110,7 +110,7 @@
   
 <img width="105" height="105" src="img/boy.png" />
 
-<h3>'A infinity study moment :  🎊💓'</h3>
+<h3>'Your More about and future things :  🎊💓'</h3>
 
 <h5>  
 I am a Frontend web Developer with the skill HTML, CSS, bootstrap, Material UI, Javascript, React.js, etc.
@@ -121,9 +121,10 @@ I hope to become a full-stack developer very soon
 I'm a Frontend web developer and Fancy web designer. I started building websites in 2020. I know how to make an appealing website. Though I am a junior Developer and designer but I am very Confident about my work .
 
 
-</div align="center">
+</div>
  <!--- Portfolio/Website --->  
   
+ <div align="center">
 <h1 align="center">
     Portfolio/Website
     </h2>
