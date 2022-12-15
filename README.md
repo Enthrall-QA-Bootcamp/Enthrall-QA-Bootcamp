@@ -15,12 +15,6 @@
 
 <div align="center"> -->
 
-
-
-
-
-
-
  <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=FF58C4&center=true&width=500&lines=Hi,+this+is++Yeamin...💻;But,+you+can+call+me...;JavaScript+Lover...❤;Thank+you+so+much+for...;Following+my+GitHub🥰)](https://mdyeamin.netlify.app/)
@@ -33,10 +27,6 @@
 <p align="left">
   <img alt="" style="{max-height: 0px}" src="img/header.jpg">
 </p>
-
-  
-  
-
 
 <br>
 
@@ -70,39 +60,66 @@
  <a href="" target="_blank"> <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1479221701/v0d4moz4jx0wultjuxec.png" alt="Saucslabs" width="40"/> </a> 
  &nbsp;
  &nbsp;
- &nbsp;
- &nbsp;
- &nbsp;
   <!--Jenkins-->
 <a href="" target="_blank"> <img src="https://wiki.jenkins-ci.org/JENKINS/attachments/2916393/57409617.png" alt="Jenkins" width="40"/> </a>
+ &nbsp;
+ &nbsp;
   <!--Eclipse-->
 <a href="" target="_blank"> <img src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png" alt="Eclipse" width="40"/> </a>
+ &nbsp;
+ &nbsp;
   <!--Maven-->
 <a href="" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVJzOSI3AtkpYVLkOtbzVJry5wy83535JC2jEh_3og561Cui0BB1QWcz3xpTkWY-vFCXM&usqp=CAU" alt="Maven" width="40"/> </a>
+ &nbsp;
+ &nbsp;
   <!-- Postman  -->
   <a href="" target="_blank"> <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" alt="Postman" width="40"/> </a>
+   &nbsp;
+ &nbsp;
   <!-- Cucumber  -->
   <a href="" target="_blank"> <img src="https://seeklogo.com/images/C/cucumber-logo-D727C551CE-seeklogo.com.png" alt="Cucumber" width="40"/> </a>
+   &nbsp;
+ &nbsp;
   <!-- SQL  -->
   <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png" alt="SQL" width="40"/> </a>
+   &nbsp;
+ &nbsp;
   <!-- Appium  -->
    <a href="" target="_blank"> <img src="https://cdn.testingbot.com/assets/integrations/appium-75e88eb18ca3b2ce63d641547ce06398c8ecd971ed17187c9134c8d205465f18.svg" alt="Appium" width="40"/> </a>
+    &nbsp;
+ &nbsp;
   <!-- Jira  -->
    <a href="" target="_blank"> <img src="https://symphony.com/wp-content/uploads/2020/12/sd-integrations-logo-jira.png" alt="Jira" width="40"/> </a>
+    &nbsp;
+ &nbsp;
   <!-- Browserstack  -->
   <a href="" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/browserstack-logo-png-transparent.png" alt="Browserstack" width="40"/> </a>
+   &nbsp;
+ &nbsp;
   <!-- Eclipse  -->
     <a href="" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-svg-vector.svg" alt="Eclipse" width="40"/> </a>
+     &nbsp;
+ &nbsp;
   <!-- GitHub  -->
   <a href="" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="GitHub" width="40"/> </a>
+   &nbsp;
+ &nbsp;
   <!-- Java  -->
     <a href="" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40"/> </a>
+     &nbsp;
+ &nbsp;
   <!-- SDLC  -->
   <a href="" target="_blank"> <img src="https://t4.ftcdn.net/jpg/05/41/91/07/360_F_541910787_PROoPe5SAXpM1ZQbD0kJtXHDp1pjjfcV.jpg" alt="SDLC" width="40"/> </a>
+   &nbsp;
+ &nbsp;
   <!-- Rest Assured  -->
    <a href="" target="_blank"> <img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" alt="Rest Assured " width="40"/> </a>
+    &nbsp;
+ &nbsp;
   <!-- Selenium_4  -->
 <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/1200px-Selenium_Logo.png" alt="Selenium_4 " width="40"/> </a>
+ &nbsp;
+ &nbsp;
 <!-- VS code  -->
 <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS code " width="40"/> </a>
  </p>
@@ -124,7 +141,6 @@ I did some work in the backend,
 I hope to become a full-stack developer very soon
 </h5>
 I'm a Frontend web developer and Fancy web designer. I started building websites in 2020. I know how to make an appealing website. Though I am a junior Developer and designer but I am very Confident about my work .
-
 
 </div>
  <!--- Portfolio/Website --->  
@@ -183,4 +199,3 @@ I'm a Frontend web developer and Fancy web designer. I started building websites
   <img width="420px" src="https://github-readme-stats.vercel.app/api?username=mdyeamin&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
   <img width="420px" src="https://github-readme-streak-stats.herokuapp.com?user=mdyeamin&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
 </p>
-
