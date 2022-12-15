@@ -121,7 +121,7 @@ I hope to become a full-stack developer very soon
 I'm a Frontend web developer and Fancy web designer. I started building websites in 2020. I know how to make an appealing website. Though I am a junior Developer and designer but I am very Confident about my work .
 
 
-</div>
+</div align="center">
  <!--- Portfolio/Website --->  
   
 <h1 align="center">
