@@ -139,6 +139,12 @@
 &nbsp;
 <!-- VS code  -->
 <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS code " width="40"/> </a>
+&nbsp;
+<!-- Hadoop -->
+<a href="" target="_blank"> <img src="https://seeklogo.com/images/H/hadoop-logo-608148F581-seeklogo.com.png" alt="Hadoop " width="40"/> </a>
+&nbsp;
+<!-- Python -->
+<a href="" target="_blank"> <img src="https://i.pinimg.com/736x/4d/13/d5/4d13d55d6d0b38b7a4e85fcf97ff6279.jpg" alt="Python " width="40"/> </a>
  </p> 
 
 
