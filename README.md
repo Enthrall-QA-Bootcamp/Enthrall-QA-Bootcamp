@@ -69,79 +69,79 @@
   <!-- HTML -->
 
   <a href="" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMRk3g9oapUnqAvZHc_zbRyHirzDKkBX-G3_nVEcPOE46ZBtrSvVL9eu8kC8EgFRMjgIE&usqp=CAU" alt="HTML" width="40" /> </a>
-  
+  &nbsp;
   <!-- CSS -->
 
    <a href="" target="_blank"> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="CSS" width="40" /> </a>
-  
+  &nbsp;
   <!-- Bootstrap -->
   <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" /> </a>
-  
+  &nbsp;
   <!-- MYSQL -->
   <a href="" target="_blank"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="MYSQL" width="40" /> </a>
-  
+  &nbsp;
 
   <!-- git -->
   <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" /> </a>
-   
+  &nbsp; 
   <!-- JS -->
   <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" />
-  
+  &nbsp; 
   <!-- MongoDb -->
   </a> <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" /> 
-  
+  &nbsp; 
   <!-- NodeJS -->
   </a> <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" />
-   
+  &nbsp; 
   <!--Saucslabs-->
  <a href="" target="_blank"> <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1479221701/v0d4moz4jx0wultjuxec.png" alt="Saucslabs" width="40"/> </a> 
- 
+ &nbsp; 
   <!--Jenkins-->
 <a href="" target="_blank"> <img src="https://wiki.jenkins-ci.org/JENKINS/attachments/2916393/57409617.png" alt="Jenkins" width="40"/> </a>
-
+&nbsp;
   <!--Eclipse-->
 <a href="" target="_blank"> <img src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png" alt="Eclipse" width="40"/> </a>
-
+&nbsp;
   <!--Maven-->
 <a href="" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVJzOSI3AtkpYVLkOtbzVJry5wy83535JC2jEh_3og561Cui0BB1QWcz3xpTkWY-vFCXM&usqp=CAU" alt="Maven" width="40"/> </a>
-
+&nbsp;
   <!-- Postman  -->
   <a href="" target="_blank"> <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" alt="Postman" width="40"/> </a>
-  
+  &nbsp;
   <!-- Cucumber  -->
   <a href="" target="_blank"> <img src="https://seeklogo.com/images/C/cucumber-logo-D727C551CE-seeklogo.com.png" alt="Cucumber" width="40"/> </a>
-  
+  &nbsp;
   <!-- SQL  -->
   <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png" alt="SQL" width="40"/> </a>
-  
+  &nbsp;
   <!-- Appium  -->
    <a href="" target="_blank"> <img src="https://cdn.testingbot.com/assets/integrations/appium-75e88eb18ca3b2ce63d641547ce06398c8ecd971ed17187c9134c8d205465f18.svg" alt="Appium" width="40"/> </a>
-   
+   &nbsp;
   <!-- Jira  -->
    <a href="" target="_blank"> <img src="https://symphony.com/wp-content/uploads/2020/12/sd-integrations-logo-jira.png" alt="Jira" width="40"/> </a>
-   
+   &nbsp;
   <!-- Browserstack  -->
   <a href="" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/browserstack-logo-png-transparent.png" alt="Browserstack" width="40"/> </a>
-  
+  &nbsp;
   <!-- Eclipse  -->
 
 <a href="" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-svg-vector.svg" alt="Eclipse" width="40"/> </a>
-
+&nbsp;
   <!-- GitHub  -->
   <a href="" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="GitHub" width="40"/> </a>
-  
+  &nbsp;
   <!-- Java  -->
   <a href="" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40"/> </a>
-      
+      &nbsp;
   <!-- SDLC  -->
   <a href="" target="_blank"> <img src="https://t4.ftcdn.net/jpg/05/41/91/07/360_F_541910787_PROoPe5SAXpM1ZQbD0kJtXHDp1pjjfcV.jpg" alt="SDLC" width="40"/> </a>
-  
+  &nbsp;
   <!-- Rest Assured  -->
    <a href="" target="_blank"> <img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" alt="Rest Assured " width="40"/> </a>
-   
+   &nbsp;
   <!-- Selenium_4  -->
 <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/1200px-Selenium_Logo.png" alt="Selenium_4 " width="40"/> </a>
-
+&nbsp;
 <!-- VS code  -->
 <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS code " width="40"/> </a>
  </p>
