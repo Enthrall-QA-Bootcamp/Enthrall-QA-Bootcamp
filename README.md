@@ -145,6 +145,18 @@
 &nbsp;
 <!-- Python -->
 <a href="" target="_blank"> <img src="https://i.pinimg.com/736x/4d/13/d5/4d13d55d6d0b38b7a4e85fcf97ff6279.jpg" alt="Python " width="40"/> </a>
+&nbsp;
+<!-- IntelliJ IDea -->
+<a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDea " width="40"/> </a>
+&nbsp;
+<!-- Pycharm -->
+<a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png?20200803065702" alt="Pycharm " width="40"/> </a>
+&nbsp;
+<!-- Webstorm -->
+<a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" alt="Webstorm " width="40"/> </a>
+&nbsp;
+<!-- VSC -->
+<a href="" target="_blank"> <img src="https://media.glassdoor.com/sqll/1787926/vsc-consulting-squarelogo-1641485763104.png" alt="VSC " width="40"/> </a>
  </p> 
 
 
