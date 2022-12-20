@@ -78,7 +78,7 @@
   <a href="" target="_blank"> <img src="https://seeklogo.com/images/C/cucumber-logo-D727C551CE-seeklogo.com.png" alt="Cucumber" width="40"/> </a>
   &nbsp;
   <!-- SQL  -->
-  <a href="" target="_blank"> <img src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png" alt="SQL" width="40"/> </a>
+  <a href="" target="_blank"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" alt="SQL" width="40"/> </a>
   &nbsp;
   <!-- Appium  -->
    <a href="" target="_blank"> <img src="https://cdn.testingbot.com/assets/integrations/appium-75e88eb18ca3b2ce63d641547ce06398c8ecd971ed17187c9134c8d205465f18.svg" alt="Appium" width="40"/> </a>
